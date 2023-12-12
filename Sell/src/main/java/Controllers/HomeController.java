@@ -17,7 +17,7 @@ import Services.IProductService;
 import Services.CateServiceImpl;
 import Services.ProductServiceIMPL;
 
-
+//12321
 @WebServlet(urlPatterns = {"/user-Sell/home","/user-listprocate","/user-detail"})
 public class HomeController extends HttpServlet{
 
